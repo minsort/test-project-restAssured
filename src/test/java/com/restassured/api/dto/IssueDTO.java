@@ -1,4 +1,4 @@
-package com.restAssured.tests.dto;
+package com.restassured.api.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

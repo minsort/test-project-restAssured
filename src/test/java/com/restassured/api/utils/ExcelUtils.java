@@ -1,4 +1,4 @@
-package com.restAssured.tests.utils;
+package com.restassured.api.utils;
 
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
